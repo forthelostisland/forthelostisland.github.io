@@ -313,14 +313,14 @@ Lost Island erscheint ebenfalls unter der Lizenz [Creative Commons Attribution 3
 
 ## Bildnachweis
 ### Kartengestaltung
-	- Icon Flugzug: https://www.flaticon.com/free-icon/plane_614
-	- Speer: https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png
-	- Kartenrückseite
-		- Feuer: https://www.publicdomainpictures.net/de/view-image.php?image=157362&picture=weinlese-feuer-warnung-plakat
-		- Palmen: Foto von [Kayla Salisbury](https://www.pexels.com/de-de/@ksalsaberry?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) von [Pexels](https://www.pexels.com/de-de/foto/graustufenfoto-von-palmen-2448248/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-	- Kartenvorderseite
-		- Fragen: https://freeclassicimages.com/images/Dart_and_Fall.jpg
-		- Event- und Mysterykarten: https://freeclassicimages.com/images/Loch_Awe.jpg
+- Icon Flugzug: https://www.flaticon.com/free-icon/plane_614
+- Speer: https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png
+- Kartenrückseite
+	- Feuer: https://www.publicdomainpictures.net/de/view-image.php?image=157362&picture=weinlese-feuer-warnung-plakat
+	- Palmen: Foto von [Kayla Salisbury](https://www.pexels.com/de-de/@ksalsaberry?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) von [Pexels](https://www.pexels.com/de-de/foto/graustufenfoto-von-palmen-2448248/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+- Kartenvorderseite
+	- Fragen: https://freeclassicimages.com/images/Dart_and_Fall.jpg
+	- Event- und Mysterykarten: https://freeclassicimages.com/images/Loch_Awe.jpg
 
 ### Charakterpoträts
 - C1: [Photo by A Koolshooter on Pexels](https://www.pexels.com/photo/portrait-of-a-woman-with-blonde-hair-and-black-leather-jacket-5601012/)
