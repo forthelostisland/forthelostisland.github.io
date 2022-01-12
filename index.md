@@ -2,21 +2,6 @@
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Cover_schmal.jpg?raw=true)
 # Spielanleitung
 
-
-## Danke
-Mein von Herzen kommender Dank geht an alle Mitspieler*innen, die mir in den zahlreichen Testspielen so tolle Erinnerungen bereitet haben. Jede einzelne Gruppe ist mir total ans Herz gewachsen und ich denke immer wieder gerne zurück an "unsere Insel". Danke dafür: Christian Eichinger, Christian Mayer, Christopher Gmelch, Christopher Willmann, Florian Klemt, Frau Blau, Ilona Mayer, Martina Heyer, Olav Müller, Ron Müller, Saffron, Sandra Dahlhoff, Sebastian Magel, Tycrotius, Wolfgang Heyer
-
-Besonders bedanken möchte ich mich bei Harald Eckmüller, der mich mit seinen Anmerkungen und seiner Freude an dem Projekt angespornt hat das aus dem Spiel zu machen, was es heute ist.
-
-Tausend Dank an Peter Geßler, der mir als Sparrings- und Gesprächspartner immer zur Verfügung stand und sich geduldig meine Gedankenspiele angehört hat. Und das bevor er überhaupt selbst die Chance hatte Lost Island zu spielen. Danke auch für die geopferte Zeit mit mir die Fragen immer wieder durch zu gehen. Und nicht zuletzt Danke für das Lektorat und die Bereitschaft als Erstleser sich durch die Anleitung zu arbeiten.
-
-Danke auch an Alex Roberts, die das wundervolle Spiel "Für die Königin" geschaffen und damit erst diesen Hack ermöglicht hat.
-
-## Widmung
-Meinen Sonnen Moni, Annika und Marina. Alles worauf ich im Leben stolz bin, verdanke ich euch.
-
-![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-
 # Was ist "Lost Island"
 Lost Island ist ein Erzählspiel, bei dem wir die Rolle von Menschen übernehmen, die sich nach einem tragischen Flugzeugabsturz als einzige Überlebende auf einer einsamen Insel wiederfinden.
 
@@ -28,6 +13,8 @@ Sowohl, was den Ton, als auch was die Ereignisse angeht. Was uns gefällt lassen
 
 Das Spiel ist dabei für 3 bis 6 Spielende ausgelegt.
 Die Spielzeit hängt stark von der jeweiligen Gruppe ab. Drei Stunden haben sich dabei als ein gutes Maß ergeben.
+
+![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
 
 # Bevor wir starten
 ## Safety Tools
@@ -47,23 +34,21 @@ So viel Spaß uns das Spielen auch bereitet, es ist anstrengender als man denkt,
 
 ## Spielmaterialien und -aufbau
 ![Beispielhafter Spielaufbau an Hand der Onlineumsetzung in playingcards.io](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/LostIsland_card-overview.png?raw=false)
-
+&NewLine;
+&NewLine;
 ### Spielmaterialien
 Bevor wir loslegen können müssen wir noch das Spiel aufbauen. Zusätzlich zu den in der Box enthaltenen Spielkarten benötigen wir noch mindesten **einen Stift** und einen **Charakterbogen je Spielercharakter**. Wenn es schnell gehen muss, reicht auch ein Blatt Papier, oder mehrere Indexkarten. Außerdem benötigen wir noch **vier Marker,** um den aktuellen Status bei den Statuskarten festhalten zu können. Hierfür eigenen sich unter anderem Centstücke, flache Glasperlen, oder auch Büroklammern.
 
-![Beispielhafter Spielaufbau an Hand der Onlineumsetzung in playingcards.io](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Test_LOST.gif?raw=true)
-
-Im Spiel sind folgende Karten enthalten:
-
- - Charakterporträts (16 Stk)
- - Szenario-Einleitung (1 Stk)
- - X-Karte (1 Stk)
- - Schlusskarte: "Ein Schiff schält sich aus dem dichten Morgennebel vor der Insel. Endlich die ersehnte Rettung? Was von der Insel wird dich dein Leben lang begleiten?" (1 Stk)
- - Ziehe eine Mystery- oder Ereigniskarte (11 Stk)
- - Fragekarten (36 Stk)
- - Mysterykarten (15 Stk)
- - Ereigniskarten (14 Stk)
- - Statuskarten (4 Stk)
+**Im Spiel sind folgende Karten enthalten:**
+ - **Charakterporträts** (16 Stk)
+ - **Szenario-Einleitung** (1 Stk)
+ - **X-Karte** (1 Stk)
+ - **Schlusskarte** "Ein Schiff schält sich aus dem dichten Morgennebel vor der Insel. Endlich die ersehnte Rettung? Was von der Insel wird dich dein Leben lang begleiten?" (1 Stk)
+ - **Ziehe eine Mystery- oder Ereigniskarte** (11 Stk)
+ - **Fragekarten** (36 Stk)
+ - **Mysterykarten** (15 Stk)
+ - **Ereigniskarten** (14 Stk)
+ - **Statuskarten** (4 Stk)
 	 - Eintracht
 	 - Ortskenntnis
 	 - Sicherheit
@@ -86,10 +71,12 @@ Nun werden noch die 4 **Statuskarten** über die Fragekarten mit der die Skala z
 
 Danach können wir endlich mit dem eigentlichen Spielen beginnen.
 
+![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
+
 # Es geht los. Wir spielen Lost Island
 
 ## Der Cast
-Als erstes überlegen wir uns, wer die Gruppe Überlebender ist, die die Hauptrolle in unserer Story, unserer Serie spielen sollen. Dazu erstellt jede*r Mitspielende einen sogenannten Spielercharakter. Alle Spielercharaktere zusammen ergeben dann den Cast unserer Geschichte. Wir erstellen unsere Charaktere zusammen, in dem wir über unsere Entscheidungen sprechen und inspirieren uns dabei gegenseitig. Das ist schon alles Teil des Spiels. 
+Als erstes überlegen wir uns, wer die Gruppe Überlebender ist, die die Hauptrolle in unserer Story, unserer Serie spielen sollen. Dazu erstellt jede\*r Mitspielende einen sogenannten Spielercharakter. Alle Spielercharaktere zusammen ergeben dann den Cast unserer Geschichte. Wir erstellen unsere Charaktere zusammen, in dem wir über unsere Entscheidungen sprechen und inspirieren uns dabei gegenseitig. Das ist schon alles Teil des Spiels. 
 Wir müssen unseren Cast auch nicht genau in der unten stehenden Reihenfolge erstellen. Wenn es dir leichter Fällt z.B. erst den Beruf und die Eigenschaften und danach ein passendes Bild auszusuchen, tut das. Es gibt kein richtig oder falsch.
 
 ### Wer bin ich?
@@ -97,7 +84,7 @@ Als erstes suchen wir uns ein Porträt aus den bereitgelegten Charakterporträtk
 
 ### Meine Vergangenheit
 Als nächstes legen wir fest, welchem Beruf unser Charakter vor dem Flugzeugabsturz nachgegangen ist. Hierzu wählen wir eine Tätigkeit aus der unten stehenden Tabelle aus, oder überlegen uns selbst eine passende Vergangenheit. 
-Wollen wir zufällig einen Beruf auswählen, so können wir mit zwei sechseitigen Würfeln - das sind die Standardwürfel von Kniffel, oder anderen Brettspielen - würfeln. Das erste Würfelergebnis ist dabei die Zeilennummer, das zweite Ergebnis entspricht dann der Spaltennummer unseres Wertes. Bei einer 4 und einer 2 wären wir also ein*e Musiker*in vor dem Absturz gewesen. So können wir übrigens alle Werte unseres Charakters bestimmen.
+Wollen wir zufällig einen Beruf auswählen, so können wir mit zwei sechseitigen Würfeln - das sind die Standardwürfel von Kniffel, oder anderen Brettspielen - würfeln. Das erste Würfelergebnis ist dabei die Zeilennummer, das zweite Ergebnis entspricht dann der Spaltennummer unseres Wertes. Bei einer 4 und einer 2 wären wir also ein\*e Musiker\*in vor dem Absturz gewesen. So können wir übrigens alle Werte unseres Charakters bestimmen.
 
 Unsere Vergangenheit und unsere Eigenschaften sollen uns dabei nur einen groben Eindruck über uns selbst - also unserem Charakter - und unserer Gruppe geben. Sozusagen als Sprungbrett in unsere Geschichte. Wer unsere Charaktere "jetzt" sind und wie sie auf die dramatische Situation des Unglücks reagieren, finden wir während des Spiels heraus.
 
@@ -105,12 +92,12 @@ Bei der Auswahl des Berufs können wir uns überlegen: Wer oder was hat mich am 
 
 |   |1  |2  |3  |4  |5  |6  |
 |--|--|--|--|--|--|--|
-| **1** |Ingenieur*in|Journalist*in|Pilot*in|Polizist*in|Mechaniker*in|Buchhalter*in|
-| **2** |Autor*in|Pastor*in|Fahrradkurier*in|Barkeeper*in|Bänker*in|Schauspieler*in|
-| **3** |Student*in|Koch/Köch*in|Lehrer*in|Arzt/Ärzt*in|Florist*in|Taxifahrer*in|
-| **4** |Architekt*in|Musiker*in|Metzger*in|Surflehrer*in|Verkäufer*in|Landwirt*in|
-| **5** |Grafikdesigner*in|Apotheker*in|Ernährungsberater*in|Anwalt/Anwält*in|Erzieher*in|Wissenschaftler*in|
-| **6** |Geburtshelfer*in|Diplomat*in|Briefträger*in|Geschäftsführer*in|Tatoo Artist|Dolmetscher*in|
+| **1** |Ingenieur\*in|Journalist\*in|Pilot\*in|Polizist\*in|Mechaniker\*in|Buchhalter\*in|
+| **2** |Autor\*in|Pastor\*in|Fahrradkurier\*in|Barkeeper\*in|Bänker\*in|Schauspieler\*in|
+| **3** |Student\*in|Koch/Köch\*in|Lehrer\*in|Arzt/Ärzt\*in|Florist\*in|Taxifahrer\*in|
+| **4** |Architekt\*in|Musiker\*in|Metzger\*in|Surflehrer\*in|Verkäufer\*in|Landwirt\*in|
+| **5** |Grafikdesigner\*in|Apotheker\*in|Ernährungsberater\*in|Anwalt/Anwält\*in|Erzieher\*in|Wissenschaftler\*in|
+| **6** |Geburtshelfer\*in|Diplomat\*in|Briefträger\*in|Geschäftsführer\*in|Tatoo Artist|Dolmetscher\*in|
 
 ### Mein Name
 Natürlich braucht unser Charakter einen Namen. Diesen suchen wir uns aus folgender Tabelle aus, oder überlegen uns einen eigenen. Verschwende keine Zeit dir einen Nachnamen auszudenken, es wird dich niemand damit ansprechen. Aber dein Name ist Teil deiner Vergangenheit. Trägst du ihn mit Stolz, oder bist du im Gegenteil froh, noch einmal neu anfangen zu können?
@@ -189,6 +176,8 @@ So beantworten wir im Uhrzeigersinn alle vier Fragen und sind dann bereit die er
 Die Statuskarten haben keine weitere regelmechanische Auswirkung. Sie dienen lediglich dazu, dass wir als Gruppe ein gemeinsames Verständnis davon haben, wie es um unsere Gruppe gerade steht. 
 Entsprechend kann der Wert auch jeder Zeit in die eine oder andere Richtung angepasst werden, wenn wir das Gefühl haben, unsere Situation hat sich in einer Kategorie auf Grund unserer Antworten auf die gestellten Fragen verbessert oder verschlechtert.
 
+![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
+
 ## Der Spielablauf
 ### Szenario Einleitungstext
 Bevor die erste Fragekarte gezogen wird, können wir, um uns nochmal in die Szenerie einzufühlen den Szenariotext vorlesen. Quasi als Vorspann zur ersten Folge unserer Serie.
@@ -212,7 +201,7 @@ Nun beginnt - wie versprochen - das eigentliche Spiel. Die Person links von der,
 
 Wenn wir am Zug sind, ziehen wir eine Fragearte und lesen diese vor.
 Jede:r beantwortet die ihm gestellte Frage ganz nach eigenem empfinden - dabei darf und soll gerne improvisiert und auf das eigene Bauchgefühl gehört werden.
-Jede\*r Mitspielende kann zu der gegebenen Antwort Rückfragen stellen oder Vorschläge machen, darf aber nicht für die anderen antworten. Jede*r entscheidt selbst, ob die Beiträge der anderen berücksichtigt werden, oder nicht.
+Jede\*r Mitspielende kann zu der gegebenen Antwort Rückfragen stellen oder Vorschläge machen, darf aber nicht für die anderen antworten. Jede\*r entscheidt selbst, ob die Beiträge der anderen berücksichtigt werden, oder nicht.
 
 Wenn eine Frage "dich" adressiert, dann meint sie immer den Spielercharakter der Person, die die Frage gezogen hat.
 
@@ -223,7 +212,7 @@ Auch gilt bei der Beantwortung der Fragen: Filmlogik vor Realitätsnähe. Je meh
 Soll eine Karte oder eine Antwort nicht in die Geschichte einfließen, dann berühren wir einfach die X-Karte. Dieses Element wird dadurch aus dem Spiel entfernt. Danach ziehen wir einfach eine neue Karte.  Wir dürfen jederzeit auch Karten "X"en, die wir selbst gezogen haben.
 
 Wenn wir an der Reihe sind, dürfen wir auch passen. Wir geben dann die Karte an die Person weiter, die wir am geeigneten für die Beantwortung der Frage halten und sagen: "Auf diese Frage würde ich gern deine Antwort hören." So kann eine Fragekarte von einer Person zur nächsten wandern, bis sie von der X-Karte aufgehoben wird.
-Durch das Passen verlieren wir allerdings unseren Spotlight für diese Runde und nach der Beantwortung der gepassten Karte zieht der*die Mitspielende zu unserer linken die nächste Fragekarte.
+Durch das Passen verlieren wir allerdings unseren Spotlight für diese Runde und nach der Beantwortung der gepassten Karte zieht der\*die Mitspielende zu unserer linken die nächste Fragekarte.
 
 Wenn wir eine "Ziehe eine Event- oder Mysterykarte" Karte ziehen, dürfen wir entscheiden, ob wir eine Karte vom Ereignis- oder Mysterystapel (falls vorhanden) ziehen möchten. Wir ziehen dort eine Karte und beantworten die Frage.
 
@@ -231,14 +220,18 @@ Nach dem Beantworten der Fragekarte können wir gemeinsam überlegen, ob sich f�
 
 Wir beantworten, passen oder benutzen die X-Karte solange weiter, bis die Karte "Ein Schiff  schält sich aus dem dichten Morgennebel [...]" gezogen wird. Nun beantworten wir alle reihum einzeln die Frage. Danach endet unsere kleine Geschichte und wir verabschieden uns von unseren Charakteren und sagen unserer Insel "auf Wiedersehen".
 
+![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
+
 # Das Debriefing. Unser Spiel ausklingen lassen
 Um unser Spiel ausklingen zu lassen bietet sich eine Methode von Lu Quade, nämlich [„Stars and Wishes“](https://www.gauntlet-rpg.com/blog/stars-and-wishes) an.
-Hier darf jede*r Mitspielende reihum eine Sache nennen, die er*sie besonders herausragend fand. Das können bestimmte Ideen, Szenen oder auch Charaktere sein. Etwas, was das heutige Spiel für uns bereichert hat und uns total gut gefallen hat.
+Hier darf jede\*r Mitspielende reihum eine Sache nennen, die er\*sie besonders herausragend fand. Das können bestimmte Ideen, Szenen oder auch Charaktere sein. Etwas, was das heutige Spiel für uns bereichert hat und uns total gut gefallen hat.
 
-Wenn wir reihum jeder so seine*n "Star" vergeben hat, dürfen wir unseren "Wunsch" für das nächste mal äußern.
+Wenn wir reihum jeder so seine\*n "Star" vergeben hat, dürfen wir unseren "Wunsch" für das nächste mal äußern.
 Was würden wir beim nächsten mal gerne sehen, was könnte man beim nächsten mal etwas anders, besser machen. Vielleicht noch mehr die Beziehungen der Charaktere erkunden? Oder das Leben unserer Charaktere noch etwas dramatischer mit unseren Antworten machen?
 
 So können wir unser Spiel, unsere Geschichte noch einmal Revue passieren lassen und finden einen schönen Abschluss für unseren Besuch auf unserer "Lost Island".
+
+![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
 
 
 # Optionale Regeln
@@ -253,10 +246,10 @@ Um etwas Abwechslung in unser Spiel zu bekommen, können wir uns für eine leich
 Der Spielaufbau und -ablauf bleibt dabei genau der selbe. Der einzige Unterschied ist, dass wir zum Szenario passende Charaktere erstellen.
 
 ### Der Schiffsbruch
-#### Touchstone: Robinson Crusoe
+**Touchstone: Robinson Crusoe**
 Hier spielen wir die Besatzung und Reisenden der MS Hemera, die Ende des 18. Jahrhunderts während Ihrer Überfahrt durch einen Sturm vom Kurs abkam und vor einer unbekannten Insel kenterte.
 
-#### Szenario Einleitungstext
+**Szenario Einleitungstext**
 *Die ganze Fahrt war von Anfang an verflucht. 
 Schon als dieser Dr. Prendick das erste Mal seinen schmutzigen Stiefel auf das Deck der MS Hemera gesetzt hat. 
 Davon seit ihr überzeugt. 
@@ -271,25 +264,25 @@ Eine Warnung an jeden sich nicht zu nähern.
 Die Insel hat euch aufgenommen. 
 Wie lange schon?*
 
-#### Wer bin ich?
+**Wer bin ich?**
 Passende Porträts finden wir auf folgendem [Pinterest Board](https://www.pinterest.de/mrbananenbrot/lost-island/cast-shipwreck/).
 
-#### Meine Vergangenheit
+**Meine Vergangenheit**
 |   |1  |2  |3  |4  |5  |6  |
 |--|--|--|--|--|--|--|
-| **1** |Kapitän*in|1. Maht*in|Schiffskoch/Schiffsköchin|Navigator*in|Missionar*in|Händler*in|
-| **2** |Dolmetscher*in|Gelehrte*r|Bedienteste*r|Spion*in|Zimmerer/Zimmer*in|Postbeamte*r|
-| **3** |Diplomat*in|Erbe/Erb*in|Arzt/Ärzt*in|Minenarbeiter*in|Wildhüter*in|Baumeister*in|
-| **4** |Glaser*in|Fuhrmann/Fuhrfrau|Schmied*in|Winzer*in|Gefangene*r|Schneider*in|
-| **5** |Apotheker*in|Buchdrucker*in|Fischer*in|Metzger*in|Kartograph*in|Pferdezüchter*in|
-| **6** |Landwirt*in|Schuhmacher*in|Papiermacher*in|Maurer*in|Schmied*in|Postbeamte*r|
+| **1** |Kapitän\*in|1. Maht\*in|Schiffskoch/Schiffsköchin|Navigator\*in|Missionar\*in|Händler\*in|
+| **2** |Dolmetscher\*in|Gelehrte\*r|Bedienteste\*r|Spion\*in|Zimmerer/Zimmer\*in|Postbeamte\*r|
+| **3** |Diplomat\*in|Erbe/Erb\*in|Arzt/Ärzt\*in|Minenarbeiter\*in|Wildhüter\*in|Baumeister\*in|
+| **4** |Glaser\*in|Fuhrmann/Fuhrfrau|Schmied\*in|Winzer\*in|Gefangene\*r|Schneider\*in|
+| **5** |Apotheker\*in|Buchdrucker\*in|Fischer\*in|Metzger\*in|Kartograph\*in|Pferdezüchter\*in|
+| **6** |Landwirt\*in|Schuhmacher\*in|Papiermacher\*in|Maurer\*in|Schmied\*in|Postbeamte\*r|
 
 ### Die Welle
-#### Touchstone: Herr der Fliegen
-Hier spielen wir - ganz wie bei der berühmten Vorlage - Schüler*innen, die sich nach einem Flugzeugabsturz auf sich gestellt auf einer einsamen Insel wiederfinden.
+**Touchstone: Herr der Fliegen**
+Hier spielen wir - ganz wie bei der berühmten Vorlage - Schüler\*innen, die sich nach einem Flugzeugabsturz auf sich gestellt auf einer einsamen Insel wiederfinden.
 Bei diesem Szenario wollen wir besonders sensibel auf einander achten, da je nach Erfahrungen der Spielenden hier gewisse Trigger ausgelöst werden können. Außerdem können wir hier wahrscheinlich auf die Mystery-Ereignisse verzichten. Unsere jungen Protagonisten werden genug mit sich selbst beschäftigt sein.
 
-#### Szenario Einleitungstext
+**Szenario Einleitungstext**
 *Nach dem Schock kam die Verwunderung. 
 Nach der Verwunderung die Angst. 
 Als ihr nach dem Flugzeugabsturz realisiert, dass ihr die einzigen Überlebenden seit, 
@@ -299,18 +292,85 @@ Jetzt seid ihr "die Herren und Herrinnen der Insel".
 Euer Zusammenhalt gibt euch Kraft. 
 Doch dieser ist sprichwörtlich auf Sand gebaut.*
 
-#### Wer bin ich?
+**Wer bin ich?**
 Passende Porträts finden wir auf folgendem [Pinterest Board](https://www.pinterest.de/mrbananenbrot/lost-island/cast-class/).
 
-#### Meine Vergangenheit
+**Meine Vergangenheit**
 |   |1  |2  |3  |4  |5  |6  |
 |--|--|--|--|--|--|--|
-| **1** |Poser*in|der*die Fleißige|Klassenclown*in|Klassensprecher*in|der*die Kreative|Außenseiter*in|
-| **2** |Nerd*in|der*die Klassenbeste|Schleimer*in|Sitzenbleiber*in|Hochbegate*r|der*die Zicke|
-| **3** |Schwarm|Fanboy/Fangirl|der*die Sportliche|Besserwisser*in|der*die Mysteriöse|der*die Klatschtante|
-| **4** |der*die Troublemaker|der*die Social Butterfly|Musiker*in|Pfadfinder*in|Tiernarr/Tiernärr*in|der*die Bücherwurm|
-| **5** |der*die Schüchterne|Sammler*in|der*die Frühreife|der*die Verwöhnte|der*die politisch Aktive|der*die Modebewusste|
-| **6** |der*die Freigeist|der\*die Mitläufer*in|Tagträumer*in|Austauschschüler*in|der*die Technischbegabte|beste\*r Freund*in|
+| **1** |Poser\*in|der\*die Fleißige|Klassenclown\*in|Klassensprecher\*in|der\*die Kreative|Außenseiter\*in|
+| **2** |Nerd\*in|der\*die Klassenbeste|Schleimer\*in|Sitzenbleiber\*in|Hochbegate\*r|der\*die Zicke|
+| **3** |Schwarm|Fanboy/Fangirl|der\*die Sportliche|Besserwisser\*in|der\*die Mysteriöse|der\*die Klatschtante|
+| **4** |der\*die Troublemaker|der\*die Social Butterfly|Musiker\*in|Pfadfinder\*in|Tiernarr/Tiernärr\*in|der\*die Bücherwurm|
+| **5** |der\*die Schüchterne|Sammler\*in|der\*die Frühreife|der\*die Verwöhnte|der\*die politisch Aktive|der\*die Modebewusste|
+| **6** |der\*die Freigeist|der\*die Mitläufer\*in|Tagträumer\*in|Austauschschüler\*in|der\*die Technischbegabte|beste\*r Freund\*in|
+
+# Credits
+
+This work is based on _[For the Queen](http://www.forthequeengame.com/)_, product of Alex Roberts and Evil Hat Productions, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
+
+Lost Island erscheint ebenfalls unter der Lizenz [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
+
+## Bildnachweis
+### Kartengestaltung
+	- Icon Flugzug: https://www.flaticon.com/free-icon/plane_614
+	- Speer: https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png
+	- Kartenrückseite
+		- Feuer: https://www.publicdomainpictures.net/de/view-image.php?image=157362&picture=weinlese-feuer-warnung-plakat
+		- Palmen: Foto von [Kayla Salisbury](https://www.pexels.com/de-de/@ksalsaberry?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) von [Pexels](https://www.pexels.com/de-de/foto/graustufenfoto-von-palmen-2448248/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+	- Kartenvorderseite
+		- Fragen: https://freeclassicimages.com/images/Dart_and_Fall.jpg
+		- Event- und Mysterykarten: https://freeclassicimages.com/images/Loch_Awe.jpg
+
+### Charakterpoträts
+- C1: [Photo by A Koolshooter on Pexels](https://www.pexels.com/photo/portrait-of-a-woman-with-blonde-hair-and-black-leather-jacket-5601012/)
+- C2: [Photo by Ron Lach on Pexels](https://www.pexels.com/de-de/@ron-lach)
+- C3: [Photo by Natalya Velichenko on Pexels](https://www.pexels.com/photo/blond-woman-wearing-jeans-and-leather-jacket-standing-at-entrance-to-old-building-9902322/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+- C4: [Photo by Alena Darmel on Pexels](https://www.pexels.com/de-de/@a-darmel)
+- C5: [Photo by Anna Pou on Pexels](https://www.pexels.com/photo/a-man-wearing-an-orange-beanie-and-posing-at-the-camera-8132728/)
+- C6: [Photo by Andrea Piacquadio on Pexels](https://www.pexels.com/de-de/foto/selektives-fokusfoto-des-mannes-der-schwarzes-rollkragen-oberteil-mit-jacke-auf-strasse-tragt-837140/)
+- C7: [Photo by Bia Sousa on Pexels](https://www.pexels.com/de-de/foto/foto-der-frau-die-nahe-comics-steht-3249217/)
+- C8: [Photo by cottonbro on Pexels](https://www.pexels.com/de-de/foto/mann-der-braune-jacke-unter-verwendung-des-smartphones-wahrend-der-verwendung-des-smartphones-tragt-3206114/)
+- C9: [Photo by cottonbro on Pexels](https://www.pexels.com/de-de/foto/mann-menschen-buro-beziehung-4100481/)
+- C10: [Photo by cottonbro on Pexels](https://www.pexels.com/de-de/foto/mann-bett-brille-liegend-4033946/)
+- C11: [Photo by cottonbro on Pexels](https://www.pexels.com/de-de/foto/mann-im-schwarzen-mantel-der-auf-klappstuhl-sitzt-6152661/)
+- C12: [Photo by Yogendra Singh on Pexels](https://www.pexels.com/de-de/foto/mann-in-schwarzer-lederjacke-3748221/)
+- C13: [Photo by Cristyan Bohn on Pexels](https://www.pexels.com/de-de/foto/stadt-fashion-mann-sonnenbrille-7556118/)
+- C14: [Photo by Darina Belonogova on Pexels](https://www.pexels.com/de-de/@darina-belonogova)
+- C15: [Photo by Darina Belonogova on Pexels](https://www.pexels.com/photo/portrait-of-woman-in-pink-shirt-9164739/)
+- C16: [Photo by eure keshavarz on Pexels](https://www.pexels.com/de-de/foto/portrat-eines-gutaussehenden-mannes-mit-muskulosem-korper-3619947/)
+- C17: [Photo by furkanfdemir on Pexels](https://www.pexels.com/photo/stylish-ethnic-senior-man-smiling-and-looking-away-6310004/)
+- C18: [Photo by Jorge Fakhouri Filho on Pexels](https://www.pexels.com/photo/woman-facing-sideways-1852012/)
+- C19: [Photo by Tima Miroshnichenko on Pexels](https://www.pexels.com/photo/a-man-in-the-gym-6389885/)
+- C20: [Photo by Ketut Subiyanto on Pexels](https://www.pexels.com/photo/a-man-in-gray-shirt-holding-a-basketball-4719820/)
+- C21: [Photo by Live on Shot on Pexels](https://www.pexels.com/@bluerhinomedia)
+- C22: [Photo by Los Muertos Crew on Pexels](https://www.pexels.com/de-de/@cristian-rojas)
+- C23: [Photo by Los Muertos Crew on Pexels](https://www.pexels.com/de-de/foto/frau-sommer-longboard-lebensstil-8645999/)
+- C24: [Photo by Tim Samuel on Pexels](https://www.pexels.com/photo/cheerful-black-woman-with-smartphone-and-dumbbell-on-street-5838229/)
+- C25: [Photo by Ron Lach on Pexels](https://www.pexels.com/de-de/@ron-lach)
+- C26: [Photo by Marcelo Moreira on Pexels](https://www.pexels.com/photo/woman-holding-her-cheek-2124962/)
+- C27: [Photo by Marina Abrosimova on Pexels](https://www.pexels.com/de-de/@marina-abrosimova-3319804)
+- C28: [Photo by Mikhail Nilov on Pexels](https://www.pexels.com/de-de/foto/mann-person-model-gesicht-8350413/)
+- C29: [Photo by Pavel Danilyuk on Pexels](https://www.pexels.com/de-de/@pavel-danilyuk)
+- C30: [Photo by Pavel Danilyuk on Pexels](https://www.pexels.com/de-de/foto/geschaftsmann-mann-sitzung-stuhl-7519009/)
+- C31: [Photo by Ron Lach on Pexels](https://www.pexels.com/photo/woman-wearing-pink-ballet-suit-holding-a-handrail-7927762/)
+- C32: [Photo by Ron Lach on Pexels](https://www.pexels.com/photo/elderly-woman-sitting-in-chair-and-looking-at-her-gold-ring-10117820/)
+
+
+# Widmung
+Meinen Sonnen Moni, Annika und Marina. Alles worauf ich im Leben stolz bin, verdanke ich euch.
+
+# Danke
+Mein von Herzen kommender Dank geht an alle Mitspieler\*innen, die mir in den zahlreichen Testspielen so tolle Erinnerungen bereitet haben. Jede einzelne Gruppe ist mir total ans Herz gewachsen und ich denke immer wieder gerne zurück an "unsere Insel". Danke dafür: Christian Eichinger, Christian Mayer, Christopher Gmelch, Christopher Willmann, Eva, Florian Klemt, Frau Blau, Ilona Mayer, Martina Heyer, Olav Müller, Ron Müller, Saffron, Sandra Dahlhoff, Sebastian Magel, Tycrotius, Wolfgang Heyer
+
+Danke auch an das [Gauntlet Forum](https://forums.gauntlet-rpg.com) und deren Mitglieder Sam Roberts, Designer des wunderbaren [Escape from Dino Island](https://samnite.itch.io/escapefromdinoisland) und Matthieu Braboszcz, der mir mit seinen Artikeln zu For the Queen und der Plattform [forthedrama.com](https://www.forthedrama.com) zu Beginn sehr geholfen hat.
+
+Besonders bedanken möchte ich mich bei Harald Eckmüller, der mich mit seinen Anmerkungen und seiner Freude an dem Projekt angespornt hat das aus dem Spiel zu machen, was es heute ist.
+
+Tausend Dank an Peter Geßler, der mir als Sparrings- und Gesprächspartner immer zur Verfügung stand und sich geduldig meine Gedankenspiele angehört hat. Und das bevor er überhaupt selbst die Chance hatte Lost Island zu spielen. Danke auch für die geopferte Zeit mit mir die Fragen immer wieder durch zu gehen. Und nicht zuletzt Danke für das Lektorat und die Bereitschaft als Erstleser sich durch die Anleitung zu arbeiten.
+
+Danke auch an Alex Roberts, die das wundervolle Spiel "Für die Königin" geschaffen und damit erst diesen Hack ermöglicht hat.
+
 
 
 
