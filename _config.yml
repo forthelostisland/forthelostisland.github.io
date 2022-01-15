@@ -14,3 +14,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 remote_theme: pmarsceill/just-the-docs
+color_scheme: dark
+
