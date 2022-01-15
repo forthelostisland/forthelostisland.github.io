@@ -268,6 +268,7 @@ Wie lange schon?*
 Passende Porträts finden wir auf folgendem [Pinterest Board](https://www.pinterest.de/mrbananenbrot/lost-island/cast-shipwreck/).
 
 **Meine Vergangenheit**
+
 |   |1  |2  |3  |4  |5  |6  |
 |--|--|--|--|--|--|--|
 | **1** |Kapitän\*in|1. Maht\*in|Schiffskoch/Schiffsköchin|Navigator\*in|Missionar\*in|Händler\*in|
@@ -296,6 +297,7 @@ Doch dieser ist sprichwörtlich auf Sand gebaut.*
 Passende Porträts finden wir auf folgendem [Pinterest Board](https://www.pinterest.de/mrbananenbrot/lost-island/cast-class/).
 
 **Meine Vergangenheit**
+
 |   |1  |2  |3  |4  |5  |6  |
 |--|--|--|--|--|--|--|
 | **1** |Poser\*in|der\*die Fleißige|Klassenclown\*in|Klassensprecher\*in|der\*die Kreative|Außenseiter\*in|
@@ -313,12 +315,12 @@ Lost Island erscheint ebenfalls unter der Lizenz [Creative Commons Attribution 3
 
 ## Bildnachweis
 ### Kartengestaltung
-	- Icon Flugzug: https://www.flaticon.com/free-icon/plane_614
-	- Speer: https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png
-	- Kartenrückseite
+- Icon Flugzug: https://www.flaticon.com/free-icon/plane_614
+- Speer: https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png
+- Kartenrückseite
 		- Feuer: https://www.publicdomainpictures.net/de/view-image.php?image=157362&picture=weinlese-feuer-warnung-plakat
 		- Palmen: Foto von [Kayla Salisbury](https://www.pexels.com/de-de/@ksalsaberry?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) von [Pexels](https://www.pexels.com/de-de/foto/graustufenfoto-von-palmen-2448248/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-	- Kartenvorderseite
+- Kartenvorderseite
 		- Fragen: https://freeclassicimages.com/images/Dart_and_Fall.jpg
 		- Event- und Mysterykarten: https://freeclassicimages.com/images/Loch_Awe.jpg
 
