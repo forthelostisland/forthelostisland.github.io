@@ -37,7 +37,7 @@ So viel Spaß uns das Spielen auch bereitet, es ist anstrengender als man denkt,
 &NewLine;
 &NewLine;
 ### Spielmaterialien
-Bevor wir loslegen können müssen wir noch das Spiel aufbauen. Zusätzlich zu den in der Box enthaltenen Spielkarten benötigen wir noch mindesten **einen Stift** und einen **Charakterbogen je Spielercharakter**. Wenn es schnell gehen muss, reicht auch ein Blatt Papier, oder mehrere Indexkarten. Außerdem benötigen wir noch **vier Marker,** um den aktuellen Status bei den Statuskarten festhalten zu können. Hierfür eigenen sich unter anderem Centstücke, flache Glasperlen, oder auch Büroklammern.
+Bevor wir loslegen können müssen wir noch das Spiel aufbauen. Zusätzlich zu den in der Box enthaltenen Spielkarten benötigen wir noch mindesten **einen Stift** und einen **[Charakterbogen je Spielercharakter](https://forthelostisland.github.io/assets/Lost_Island_Charaktersheet_print.pdf)**. Wenn es schnell gehen muss, reicht auch ein Blatt Papier, oder mehrere Indexkarten. Außerdem benötigen wir noch **vier Marker,** um den aktuellen Status bei den Statuskarten festhalten zu können. Hierfür eigenen sich unter anderem Centstücke, flache Glasperlen, oder auch Büroklammern.
 
 **Im Spiel sind folgende Karten enthalten:**
  - **Charakterporträts** (16 Stk)
@@ -78,6 +78,7 @@ Danach können wir endlich mit dem eigentlichen Spielen beginnen.
 ## Der Cast
 Als erstes überlegen wir uns, wer die Gruppe Überlebender ist, die die Hauptrolle in unserer Story, unserer Serie spielen sollen. Dazu erstellt jede\*r Mitspielende einen sogenannten Spielercharakter. Alle Spielercharaktere zusammen ergeben dann den Cast unserer Geschichte. Wir erstellen unsere Charaktere zusammen, in dem wir über unsere Entscheidungen sprechen und inspirieren uns dabei gegenseitig. Das ist schon alles Teil des Spiels. 
 Wir müssen unseren Cast auch nicht genau in der unten stehenden Reihenfolge erstellen. Wenn es dir leichter Fällt z.B. erst den Beruf und die Eigenschaften und danach ein passendes Bild auszusuchen, tut das. Es gibt kein richtig oder falsch.
+Wer wir sind, können wir auf den vorher ausgedruckten [Charakterbögen](https://forthelostisland.github.io/assets/Lost_Island_Charaktersheet_print.pdf) eintragen. Und diese dann als kleine Aussteller vor uns platzieren. Im selben Dokument sind auch noch einmal alle unten stehenden Tabellen übersichtlich für uns zusammengefasst.
 
 ### Wer bin ich?
 Als erstes suchen wir uns ein Porträt aus den bereitgelegten Charakterporträtkarten aus, oder suchen uns im Internet ein passendes Bild. Hierzu habe ich uns z.B. bei Pinterest eine [Sammlung](https://www.pinterest.de/mrbananenbrot/lost-island/cast-planecrash/) angelegt. Je nach Geschmack, können wir unseren Charakter aber natürlich auch nur mit Worten beschreiben. 
