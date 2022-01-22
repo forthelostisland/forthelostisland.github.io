@@ -2,7 +2,7 @@
 layout: article
 title: Page - Sidebar
 aside:
-  toc: true
+  toc: false
 sidebar:
   nav: layouts
 ---
