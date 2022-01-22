@@ -1,4 +1,12 @@
-﻿
+---
+layout: article
+title: Page - Sidebar
+aside:
+  toc: true
+sidebar:
+  nav: layouts
+---
+
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Cover_schmal.jpg?raw=true)
 # Spielanleitung
 
