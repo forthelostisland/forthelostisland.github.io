@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bahianita&display=swap');
+</style>
+
 ---
 layout: article
 title: Page - Aside
