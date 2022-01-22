@@ -1,10 +1,8 @@
 ---
 layout: article
-title: Page - Sidebar
+title: Page - Aside
 aside:
-  toc: false
-sidebar:
-  nav: layouts
+  toc: true
 ---
 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Cover_schmal.jpg?raw=true)
