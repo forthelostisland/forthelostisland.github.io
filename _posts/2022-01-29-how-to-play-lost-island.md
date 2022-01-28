@@ -395,7 +395,7 @@ Now you are the masters of the island.
 Your unity gives you strength. 
 But it is literally built on sand.*
 
-### Who am I?
+#### Who am I?
 Matching portraits can be found on the following [Pinterest Board](https://www.pinterest.de/mrbananenbrot/lost-island/cast-class/).
 
 #### My past
@@ -426,6 +426,9 @@ Lost Island also is released under the [Creative Commons Attribution 3.0 Unporte
 - Card fronts:
 		- Prompts: [https://freeclassicimages.com/images/Dart_and_Fall.jpg](https://freeclassicimages.com/images/Dart_and_Fall.jpg)
 		- Event and mystery cards: [https://freeclassicimages.com/images/Loch_Awe.jpg](https://freeclassicimages.com/images/Loch_Awe.jpg)
+
+### Web
+- Favicon: <a href="https://www.flaticon.com/free-icons/island" title="island icons">Island icons created by Freepik - Flaticon</a>
 
 ## Name lists
 - [https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen](https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen)
