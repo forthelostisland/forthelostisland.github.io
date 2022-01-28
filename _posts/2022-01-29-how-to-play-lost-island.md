@@ -435,7 +435,7 @@ Lost Island also is released under the [Creative Commons Attribution 3.0 Unporte
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
 <br/>
 <br/>
-<br/>
+
 # Dedication
 To my suns Moni, Annika and Marina. Everything I am proud of in life, I owe to you.
 
@@ -450,7 +450,3 @@ Special thanks to Peter Geßler, who was always available to me as a sparring pa
 He is also responsible for the dark magic behind the Character Keeper!
 
 Last but not least, thanks to Alex Roberts, for creating the wonderful game "For the Queen" and making this hack possible in the first place.
-
-
-
-
