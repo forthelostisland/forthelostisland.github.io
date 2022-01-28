@@ -17,6 +17,7 @@ The playing time depends strongly on the respective group. However, three hours 
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
 <br>
 <br>
+<br>
 # Before we get started
 ## Safety Tools
 All of us want to have a good time together, so we look out for each other and make sure that everyone feels comfortable. We do this by looking at each other's facial expressions and body language, or by specifically asking if everyone is doing well and having fun.
@@ -62,7 +63,7 @@ We will see our room name after the upload, which we can share with all the play
 By clicking Enter we can join the game and complete our preparations.
 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_pc_02.png?raw=true)
-
+<br>
 With "RECALL & SHUFFLE" we shuffle all **prompt**, **event** and **mystery** cards once before the start of the game. 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_01.gif?raw=true)
 Next, we left-click on the number in the upper left corner of the **Prompt Card Stack** (the cards with "PROMPTS" printed on the back). In the context menu that appears, we define how many questions we want to answer in this game. In doing so, we adjust the number to the desired game length.
@@ -70,25 +71,27 @@ For **3 to 4 players**, **11 prompt cards** have proven to be a good starting po
 We drag the pile with the desired number of **prompt cards** with a left click on the number slightly upwards onto the free space above the divided pile. The unused prompt cards can be put aside as a **draw pile**. 
 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_02.gif?raw=true)
-
+<br>
 We do the same with the **"Draw an Event or Mystery Card "** cards. We recommend **5 cards** for **3 to 4 players** and **7 cards** for **5 to 6 players. ** We click on "RECALL & SHUFFLE" once to turn the deck over and then split the stack at the desired number of cards.
 Then we drag this stack onto the previously prepared **prompt card stack**, while rotating it by clicking on the letter "Z" so that it is oriented in the same way as the prompt cards.
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_03.gif?raw=true)
 
 Once again, we left-click on the number in the top left corner of the card stack and select "Shuffle Stack" to shuffle the questions again.![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_04.gif?raw=true)
-
+<br>
 Afterwards, we click once on the **End Card,** to flip it. Then we drag it back to the center of the table. The last thing we do is move the shuffled **prompt card pile** onto the **End Card**.
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_05.gif?raw=true)
-
+<br>
+<br>
+<br>
 ### The Character Keeper
 Together we now create our characters via the [Character Keeper](https://docs.google.com/spreadsheets/d/1I14hJeQdBJbvByqgFaeh2BPK2KZFf8r434ATQQSpBQ4/copy).
 For this we first define the language and the desired game setting *(see Optional Scenarios)* via the corresponding dropdown in the upper left corner of the Keeper.
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/LostIsland_card-overview.png?raw=false)
-
+<br>
 Also, now would be a great time to talk again about the safety techniques agreed upon and defining our lines & veils, and add them to the top right of the play aid.
 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_ck_01.png?raw=false)
-
+<br>
 # Getting Started. Playing Lost Island
 
 ## The Cast
@@ -103,7 +106,9 @@ The first thing we do is choose a character's portrait. Here we can use, the [Pi
 To change our character's portrait, we copy the image URL by right-clicking on the desired photo, selecting the "Copy Image Address" option, and then pasting the address in the cell next to the one with label "Img URL".
 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_ck_01.gif?raw=true)
-
+<br>
+<br>
+<br>
 ### My past
 Next, we determine what profession our character was pursuing before the plane crash. To do this, we select an occupation from the dropdown next to the cell labeled "former".![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_ck_02.gif?raw=true)
 If we want to randomly pick a profession, we can roll two six-sided dice - these are the standard dice of Yahtzee, or other board games - on the table below. The first result of the dice is the number of the row, the second result is the number of the column. With a 4 and a 2, we would have been a musician before the crash for example. This is how we can determine all of our character's values, if we want to.
@@ -180,7 +185,9 @@ I have put together a few pictures for our inspiration. These can be found via t
 Again, we don't want to dwell too long on discussions and descriptions. We will soon find out what exactly awaits us on the island. But it is important that all participants have a similar picture in mind. The best way to do that is to talk about it.
 If we want, we can record the results at the bottom of the Character Keeper.
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_ck_03.gif?raw=true)
-
+<br>
+<br>
+<br>
 ## The Camp
 After we have a rough idea of our island, we still have to determine how our camp looks like at the beginning of the game. 
 Whoever has seen the sea last may describe how our camp and the directly adjacent area looks like. Of course, everyone is allowed to contribute or ask questions based on this.
@@ -194,11 +201,11 @@ The person to the left of the one who has just described the camp chooses one of
 
 To do this, we click once on the corresponding card and read out the question on it.
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_06.gif?raw=true)
-
+<br>
 Based on the given answer, we determine the status for the given category by placing one of the four markers, to the left of the status cards, on the corresponding number. For example, if we think that, based on the given answer, our supplies are rather scarce, then we would set the marker on the "Supply" card to "-1 | scarce".
 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_07.gif?raw=true)
-
+<br>
 For the start we want to set one category to 0, one category to 1 and two categories to -1. So in total we have: -1, -1, 0 and 1. 
 
 Clockwise, we answer all four questions and are then ready to draw the first prompt.
@@ -208,7 +215,9 @@ The **Status Cards** have no further mechanical effect. They only serve to give 
 Accordingly, the value can be adjusted up or down at any time if we feel our situation has improved or worsened in a category based on our answers to the questions asked.
 
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-
+<br>
+<br>
+<br>
 ## Gameplay
 ### Scenario Intro Text
 We can read out the scenario text before the first question card is drawn, in order to familiarize ourselves once again with the scenario. It's like a intro to the first episode of our series. We can find this text at the top center of the Character Keeper next to the name of the selected setting.
@@ -255,7 +264,9 @@ After answering the prompt, we can consider together whether a status - i.e. "un
 We continue to answer, pass or use the X card until the card "A ship emerges from the dense morning fog in front of the island. Finally the longed-for salvation? What from the island will accompany you all your life?" is drawn. We all take turns answering the question one by one. After that, our little story ends and we say goodbye to our characters and say to our island.
 
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-
+<br>
+<br>
+<br>
 # Debriefing. Let our game conclude
 To conclude our game, we can use a method by Lu Quade, namely ["Stars and Wishes"](https://www.gauntlet-rpg.com/blog/stars-and-wishes).
 Here, each player in turn may name one thing that they found particularly outstanding. This can be particular ideas, scenes or even characters. Something that enriched today's game and that we really liked.
@@ -268,8 +279,9 @@ This way we can review our game, our story and find a nice ending for our visit 
 An interesting article on Stars and Wishes can also be found at [Burn After Running: RPG One-Shots](https://burnafterrunningrpg.com/2022/01/07/stars-and-wishes-because-feedback-is-hard/).
 
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-
-
+<br>
+<br>
+<br>
 # Optional Rules
 Nachfolgend sind ein paar optionale Regeln aufgeführt, die wir bei unserem Spiel nutzen können ‒ wenn wir möchten.
 
@@ -349,14 +361,14 @@ Lost Island also is released under the [Creative Commons Attribution 3.0 Unporte
 
 ## Image Credits
 ### Card Design
-- Icon plane: https://www.flaticon.com/free-icon/plane_614
-- Spear: https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png
+- Icon plane: [https://www.flaticon.com/free-icon/plane_614](https://www.flaticon.com/free-icon/plane_614)
+- Spear: [https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png](https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png)
 - Card backs:
 		- Fire: https://www.publicdomainpictures.net/de/view-image.php?image=157362&picture=weinlese-feuer-warnung-plakat
 		- Palmtrees: Photo from [Kayla Salisbury](https://www.pexels.com/de-de/@ksalsaberry?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) on [Pexels](https://www.pexels.com/de-de/foto/graustufenfoto-von-palmen-2448248/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 - Card fronts:
-		- Prompts: https://freeclassicimages.com/images/Dart_and_Fall.jpg
-		- Event and mystery cards: https://freeclassicimages.com/images/Loch_Awe.jpg
+		- Prompts: [https://freeclassicimages.com/images/Dart_and_Fall.jpg](https://freeclassicimages.com/images/Dart_and_Fall.jpg)
+		- Event and mystery cards: [https://freeclassicimages.com/images/Loch_Awe.jpg](https://freeclassicimages.com/images/Loch_Awe.jpg)
 
 ## Name lists
 - [https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen](https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen)
