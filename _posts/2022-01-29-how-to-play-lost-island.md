@@ -14,6 +14,7 @@ Both in terms of the tone and the actual events. Whatever we like, we let become
 The game is designed for 3 to 6 players.
 The playing time depends strongly on the respective group. However, three hours has proven to be a good benchmark.
 <br>
+<br>
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
 <br>
 <br>
