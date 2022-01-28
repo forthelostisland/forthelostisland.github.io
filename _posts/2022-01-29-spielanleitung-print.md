@@ -250,12 +250,7 @@ Was würden wir beim nächsten Mal gerne sehen? Was könnte man beim nächsten m
 So können wir unser Spiel, unsere Geschichte noch einmal Revue passieren lassen und finden einen schönen Abschluss für unseren Besuch auf unserer "Lost Island".
 
 Ein guter Artikel zu Stars and Wishes kann auch bei [Burn After Running: RPG One-Shots](https://burnafterrunningrpg.com/2022/01/07/stars-and-wishes-because-feedback-is-hard/) gefunden werden.
-<br>
-<br>
-![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-<br>
-<br>
-<br>
+
 # Optionale Regeln
 Nachfolgend sind ein paar optionale Regeln aufgeführt, die wir bei unserem Spiel nutzen können ‒ wenn wir möchten.
 
