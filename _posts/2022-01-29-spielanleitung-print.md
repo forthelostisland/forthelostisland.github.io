@@ -1,6 +1,5 @@
 ﻿
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Cover_schmal.jpg?raw=true)
-# Spielanleitung
 
 <div style="text-align: right"> Steffen Jörg | forthelostisland@gmail.com </div>
 
