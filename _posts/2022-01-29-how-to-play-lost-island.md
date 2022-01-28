@@ -169,8 +169,8 @@ When choosing a profession, we can consider: Who or what had the greatest impact
 | **4** |Policeofficer|Bartender|Doctor/Physician|Surf Instructor|Educator|Tatoo Artist|
 | **5** |Mechanic|Banker|Florist|Salesperson|Scientist|Interpreter|
 | **6** |Accountant|Actor|Bike Courier|Farmer|Obstetrician|Pharmacist|
-<br/>
-<br/>
+
+
 ### Hello, my name is
 Of course, our character needs a name. We can choose one from the dropdown list or make up our own. Don't waste time coming up with a last name, no one will address you with it. But your name is part of your past. Do you wear it with pride, or are you, in fact, happy to start over?
 
@@ -182,8 +182,7 @@ Of course, our character needs a name. We can choose one from the dropdown list 
 | **4** |Mauve|Clover|Thyme|Tayler|Ilya|Lev|
 | **5** |Moon|Clio|Blair|Harper|Jae|Lean|
 | **6** |Ember|Kim|Silver|Nova|Yam|Riley|
-<br/>
-<br/>
+
 ### My strengths and weaknesses
 In order to give our character a little more depth and to give us a better foundation when we answer the questions posed to us - that is, to our character -, we also determine what we were particularly good at "in the past" and what our great weakness was. Again, nothing is set in stone. If we have the feeling that we would like to change something later during the game - go ahead.
 
@@ -198,8 +197,7 @@ Choose a positive trait from the list, or think of one yourself. No one can be r
 | **4** |ambitious|modest|competent|tenacious|creative|empathic|
 | **5** |charming|helpful|brave|balancing|cultivated|athletic|
 | **6** |good-natured|open to criticism|disciplined|relaxed|motivated|optimistic|
-<br/>
-<br/>
+
 #### My weakness
 Choose a weakness from the list, or think of one yourself. No one can be reduced to just one negative characteristic. It's just meant to give you and the people you're playing with something to guide you. Are you aware of your flaws, or are they only little quirks and people just need to get to know you better? What behavior do you find unbearable in others?
 
@@ -211,8 +209,8 @@ Choose a weakness from the list, or think of one yourself. No one can be reduced
 | **4** |over ambitious|pushy|incompetent|plaintive|hurt|dominating|
 | **5** |shy|selfish|messy|nervous|disrespectful|careless|
 | **6** |begrudging|quick-tempered|skeptical|anxious|bored|unathletic|
-<br/>
-<br/>
+
+
 ### Short introductions
 Now it's time for us to introduce our characters to each other. A short, snappy description will do. 
 Watching the intro of our series, what would the viewer see that best characterizes the person in question? Just a little insight into who the character was before the crash is enough. Everything else unfolds in the game.
@@ -380,9 +378,7 @@ Matching portraits can be found on the following [Pinterest board](https://www.p
 | **4** |Glazier|Carter|Boatman/Boatwoman|Winegrower|Prisoner|Tailor|
 | **5** |Pharmacist|Printer|Fisherman|Butcher|Cartographer|Horse Breeder|
 | **6** |Farmer|Shoemaker|Paper Manufacturer|Bricklayer|Blacksmith|Postal Clerk|
-<br/>
-<br/>
-<br/>
+
 ### The Class
 #### Touchstone: Lord of the Flies
 Just like in the famous original, we play students who find themselves on a desert island after a plane crash.
@@ -413,9 +409,8 @@ Matching portraits can be found on the following [Pinterest Board](https://www.p
 | **4** |The Troublemaker|The Social Butterfly|The Musician|The Boy Scout|The Animal Nut|The Bookworm|
 | **5** |The Shy One|The Collector|The Precocious|The Spoiled|The Politically Active|The Fashion Lover|
 | **6** |The Free Spirited|The Follower|The Daydreamer|The Exchange Student|The Technically Savvy|The Best Friend|
-<br/>
-<br/>
-<br/>
+
+
 # Credits and License
 
 This work is based on _[For the Queen](http://www.forthequeengame.com/)_, product of Alex Roberts and Evil Hat Productions, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
