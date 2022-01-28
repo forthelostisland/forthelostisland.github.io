@@ -1,10 +1,9 @@
 ﻿
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Cover_schmal.jpg?raw=true)
-# Spielanleitung
 
 <div style="text-align: right"> Steffen Jörg | forthelostisland@gmail.com </div>
 
-# Was ist "Lost Island"
+# What is "Lost Island"
 Lost Island is a storytelling game in which we take on the role of people who find themselves the sole survivors after a tragic plane crash on a deserted island.
 
 The game is strongly based on the series "Lost", the books "Lord of the Flies", "Robinson Crusoe" and "The Island of Dr. Moreau". In turn, we ask and answer questions, and thus tell the adventure of our small group.
