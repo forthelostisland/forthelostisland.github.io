@@ -13,7 +13,7 @@ Both in terms of the tone and the actual events. Whatever we like, we let become
 
 The game is designed for 3 to 6 players.
 The playing time depends strongly on the respective group. However, three hours has proven to be a good benchmark.
-
+<br>
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
 <br>
 <br>
@@ -168,7 +168,8 @@ When choosing a profession, we can consider: Who or what had the greatest impact
 | **4** |Policeofficer|Bartender|Doctor/Physician|Surf Instructor|Educator|Tatoo Artist|
 | **5** |Mechanic|Banker|Florist|Salesperson|Scientist|Interpreter|
 | **6** |Accountant|Actor|Bike Courier|Farmer|Obstetrician|Pharmacist|
-
+<br>
+<br>
 ### Hello, my name is
 Of course, our character needs a name. We can choose one from the dropdown list or make up our own. Don't waste time coming up with a last name, no one will address you with it. But your name is part of your past. Do you wear it with pride, or are you, in fact, happy to start over?
 
@@ -254,7 +255,7 @@ To do this, we click once on the corresponding card and read out the question on
 <br>
 <br>
 <br>
-Based on the given answer, we determine the status for the given category by placing one of the four markers, to the left of the status cards, on the corresponding number. For example, if we think that, based on the given answer, our supplies are rather scarce, then we would set the marker on the "Supply" card to "-1 | scarce".
+Based on the given answer, we determine the status for the given category by placing one of the four markers, to the left of the status cards, on the corresponding number. For example, if we think that, based on the given answer, our supplies are rather scarce, then we would set the marker on the "Supply" card to "-1 \| scarce".
 <br>
 <br>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_07.gif?raw=true)
@@ -425,7 +426,7 @@ Lost Island also is released under the [Creative Commons Attribution 3.0 Unporte
 - Icon plane: [https://www.flaticon.com/free-icon/plane_614](https://www.flaticon.com/free-icon/plane_614)
 - Spear: [https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png](https://www.theworkofgodschildren.org/collaboration/images/1/16/Spear_001.png)
 - Card backs:
-		- Fire: https://www.publicdomainpictures.net/de/view-image.php?image=157362&picture=weinlese-feuer-warnung-plakat
+		- Fire: [https://www.publicdomainpictures.net/de/view-image.php?image=157362&picture=weinlese-feuer-warnung-plakat](https://www.publicdomainpictures.net/de/view-image.php?image=157362&picture=weinlese-feuer-warnung-plakat)
 		- Palmtrees: Photo from [Kayla Salisbury](https://www.pexels.com/de-de/@ksalsaberry?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) on [Pexels](https://www.pexels.com/de-de/foto/graustufenfoto-von-palmen-2448248/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 - Card fronts:
 		- Prompts: [https://freeclassicimages.com/images/Dart_and_Fall.jpg](https://freeclassicimages.com/images/Dart_and_Fall.jpg)
@@ -434,7 +435,12 @@ Lost Island also is released under the [Creative Commons Attribution 3.0 Unporte
 ## Name lists
 - [https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen](https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen)
 - [https://bluntrose.com/nonbinary-name-list/](https://bluntrose.com/nonbinary-name-list/)
-
+<br>
+<br>
+![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
+<br>
+<br>
+<br>
 # Dedication
 To my suns Moni, Annika and Marina. Everything I am proud of in life, I owe to you.
 
