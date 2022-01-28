@@ -27,9 +27,9 @@ In order to create an atmosphere that allows everyone to participate openly and 
 There are very good summaries of the different techniques, e.g. in the following [Document from the 3W6 Community](https://bit.ly/RPGSicherheit) or in this article [Security Techniques in Pen & Paper Roleplaying](https://spielen.trillitzsch.net/sicherheitskarte/) by Tina Trillitzsch. Each with sources and further links to delve deeper into the topic. There is also a very useful article about safety tools at [www.dramadice.com](https://www.dramadice.com/de/spielleiter-tipps/safety-tools-fuer-rollenspiele/).
 
 Recommended tools are:
- ‒ Open Door Policy
- ‒ Lines & Veils
- ‒ X-Card
+- Open Door Policy
+- Lines & Veils
+- X-Card
 
 ##  Breaks
 As much fun as we have playing, it's more exhausting than you think to actively listen and creatively participate. That's why we make sure to take regular breaks; to take a short breather and then dive back into the story with renewed concentration.
@@ -42,30 +42,40 @@ In addition, we can make a copy of the so-called [Character Keeper](https://docs
 Preferably we play via a video chat tool of our choice. For instance, without registration, this is possible using [Jitsi Meet](https://meet.jit.si/).
 
 **The .pcio file contains the following cards:**
- ‒ **X-Card** (1 Stk)
- ‒ **Endcard** "A ship emerges from the dense morning fog in front of the island. Finally the longed-for salvation? What from the island will accompany you all your life?" (1 Stk)
- ‒ **Draw an event or mystery card** (11 Stk)
- ‒ **Prompt cards** (36 Stk)
- ‒ **Mystery cards** (15 Stk)
- ‒ **Event cards** (14 Stk)
- ‒ **Status cards** (4 Stk)
-	 ‒ Unity
-	 ‒ Knowledge
-	 ‒ Safety
-	 ‒ Supply
+- **X-Card** (1 Stk)
+- **Endcard** "A ship emerges from the dense morning fog in front of the island. Finally the longed-for salvation? What from the island will accompany you all your life?" (1 Stk)
+- **Draw an event or mystery card** (11 Stk)
+- **Prompt cards** (36 Stk)
+- **Mystery cards** (15 Stk)
+- **Event cards** (14 Stk)
+- **Status cards** (4 Stk)
+	 - Unity
+	 - Knowledge
+	 - Safety
+	 - Supply
 
 ### Setup playingcrads.io
 The basic setup on [https://playingcards.io](https://playingcards.io) has already been done for us. So we only have to upload the previously downloaded .pcio file to [https://playingcards.io](https://playingcards.io) by scrolling down to the "Import a Game File" button on the home page.
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_pc_01.png?raw=true)
+<br>
+<br>
 On the following screen, we drag our .pcio file into the field provided. 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_00.gif?raw=true)
+<br>
+<br>
 We will see our room name after the upload, which we can share with all the players via the displayed room name (top right).
 By clicking Enter we can join the game and complete our preparations.
-
+<br>
+<br>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_pc_02.png?raw=true)
 <br>
-With "RECALL & SHUFFLE" we shuffle all **prompt**, **event** and **mystery** cards once before the start of the game. 
+<br>
+With "RECALL & SHUFFLE" we shuffle all **prompt**, **event** and **mystery** cards once before the start of the game.
+<br>
+<br> 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_01.gif?raw=true)
+<br>
+<br>
 Next, we left-click on the number in the upper left corner of the **Prompt Card Stack** (the cards with "PROMPTS" printed on the back). In the context menu that appears, we define how many questions we want to answer in this game. In doing so, we adjust the number to the desired game length.
 For **3 to 4 players**, **11 prompt cards** have proven to be a good starting point. For **5 to 6 players**, **16 cards** are recommended. We place the slider so that the desired number is displayed and click "Cut Deck". 
 We drag the pile with the desired number of **prompt cards** with a left click on the number slightly upwards onto the free space above the divided pile. The unused prompt cards can be put aside as a **draw pile**. 
