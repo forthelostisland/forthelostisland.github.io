@@ -430,6 +430,10 @@ Lost Island erscheint ebenfalls unter der [Creative Commons Attribution 3.0 Unpo
 		- Fragen: [https://freeclassicimages.com/images/Dart_and_Fall.jpg](https://freeclassicimages.com/images/Dart_and_Fall.jpg)
 		- Event- und Mysterykarten: [https://freeclassicimages.com/images/Loch_Awe.jpg](https://freeclassicimages.com/images/Loch_Awe.jpg)
 
+### Web
+- Favicon: <a href="https://www.flaticon.com/free-icons/island" title="island icons">Island icons created by Freepik - Flaticon</a>
+- Theme: diese Seite wurde mit Hilfe von GitHub pages und dem Jekyll theme [Gitbook](https://github.com/sighingnow/jekyll-gitbook) erstellt.
+
 ## Namenslisten
 - [https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen](https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen)
 - [https://bluntrose.com/nonbinary-name-list/](https://bluntrose.com/nonbinary-name-list/)
