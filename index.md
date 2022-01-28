@@ -1,7 +1,10 @@
 ---
 layout: home
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ---
+
+<head>
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Cover_schmal.jpg?raw=true)
 
