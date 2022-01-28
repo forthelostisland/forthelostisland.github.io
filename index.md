@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Welcome
+## Welcome
 
 This side will provide you the rules for "Lost Island". A storytelling game ["Descended From the Queen"](https://www.evilhat.com/home/for-the-queen/) in which we take on the role of people who find themselves the sole survivors after a tragic plane crash on a deserted island.
 
@@ -17,7 +17,7 @@ The playing time depends strongly on the respective group. However, three hours 
 You can jump right in by clicking "How To Play Lost Island" on the sidebar to the left.
 
 
-# Herzliche Willkommen
+## Herzliche Willkommen
 Auf dieser Seite findest du die Spielregeln für "Lost Island". Ein ["Für die Königin Hack"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjAgZeTltX1AhX977sIHa4GCSkQFnoECCEQAQ&url=https%3A%2F%2Fwww.system-matters.de%2Fshop%2Ffuer-die-koenigin%2F&usg=AOvVaw2AR6Tw5vXZ96FdeV_8Vw2q) bei dem wir die Rolle von Menschen übernehmen, die sich nach einem tragischen Flugzeugabsturz als die einzigen Überlebenden auf einer einsamen Insel wiederfinden.
 
 Das Spiel lehnt sich dabei stark an der Serie "Lost", den Büchern "Herr der Fliegen", "Robinson Crusoe" oder auch "Die Insel des Dr. Moreau" an. Dabei stellen und beantworten wir reihum Fragen, und erzählen so das Abenteuer unserer kleinen Gruppe.
