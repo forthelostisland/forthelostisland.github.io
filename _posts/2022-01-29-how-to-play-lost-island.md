@@ -13,12 +13,12 @@ Both in terms of the tone and the actual events. Whatever we like, we let become
 
 The game is designed for 3 to 6 players.
 The playing time depends strongly on the respective group. However, three hours has proven to be a good benchmark.
-<br>
-<br>
+<br/>
+<br/>
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 # Before we get started
 ## Safety Tools
 All of us want to have a good time together, so we look out for each other and make sure that everyone feels comfortable. We do this by looking at each other's facial expressions and body language, or by specifically asking if everyone is doing well and having fun.
@@ -57,78 +57,78 @@ Preferably we play via a video chat tool of our choice. For instance, without re
 
 ### Setup playingcrads.io
 The basic setup on [https://playingcards.io](https://playingcards.io) has already been done for us. So we only have to upload the previously downloaded .pcio file to [https://playingcards.io](https://playingcards.io) by scrolling down to the "Import a Game File" button on the home page.
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_pc_01.png?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 On the following screen, we drag our .pcio file into the field provided. 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_00.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 We will see our room name after the upload, which we can share with all the players via the displayed room name (top right).
 By clicking Enter we can join the game and complete our preparations.
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_pc_02.png?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 With "RECALL & SHUFFLE" we shuffle all **prompt**, **event** and **mystery** cards once before the start of the game.
-<br>
-<br> 
+<br/>
+<br/> 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_01.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 Next, we left-click on the number in the upper left corner of the **Prompt Card Stack** (the cards with "PROMPTS" printed on the back). In the context menu that appears, we define how many questions we want to answer in this game. In doing so, we adjust the number to the desired game length.
 For **3 to 4 players**, **11 prompt cards** have proven to be a good starting point. For **5 to 6 players**, **16 cards** are recommended. We place the slider so that the desired number is displayed and click "Cut Deck". 
 We drag the pile with the desired number of **prompt cards** with a left click on the number slightly upwards onto the free space above the divided pile. The unused prompt cards can be put aside as a **draw pile**. 
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_02.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 We do the same with the **"Draw an Event or Mystery Card "** cards. We recommend **5 cards** for **3 to 4 players** and **7 cards** for **5 to 6 players.** We click on "RECALL & SHUFFLE" once to turn the deck over and then split the stack at the desired number of cards.
 Then we drag this stack onto the previously prepared **prompt card stack**, while rotating it by clicking on the letter "Z" so that it is oriented in the same way as the prompt cards.
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_03.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 Once again, we left-click on the number in the top left corner of the card stack and select "Shuffle Stack" to shuffle the questions again.
-<br>
-<br>![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_04.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_04.gif?raw=true)
+<br/>
+<br/>
+<br/>
 Afterwards, we click once on the **End Card,** to flip it. Then we drag it back to the center of the table. The last thing we do is move the shuffled **prompt card pile** onto the **End Card**.
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_05.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 ### The Character Keeper
 Together we now create our characters via the [Character Keeper](https://docs.google.com/spreadsheets/d/1I14hJeQdBJbvByqgFaeh2BPK2KZFf8r434ATQQSpBQ4/copy).
 For this we first define the language and the desired game setting *(see Optional Scenarios)* via the corresponding dropdown in the upper left corner of the Keeper.
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/LostIsland_card-overview.png?raw=false)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 Also, now would be a great time to talk again about the safety techniques agreed upon and defining our lines & veils, and add them to the top right of the play aid.
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_ck_01.png?raw=false)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 # Getting Started. Playing Lost Island
 
 ## The Cast
@@ -141,20 +141,20 @@ We can record who we are in the provided [Character Keepers](https://docs.google
 ### Who am I?
 The first thing we do is choose a character's portrait. Here we can use, the [Pinterest collection](https://www.pinterest.de/mrbananenbrot/lost-island/cast-planecrash/) created for the game. Depending on our taste, we can also just describe our character with some words in the field provided for this purpose.
 To change our character's portrait, we copy the image URL by right-clicking on the desired photo, selecting the "Copy Image Address" option, and then pasting the address in the cell next to the one with label "Img URL".
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_ck_01.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 ### My past
 Next, we determine what profession our character was pursuing before the plane crash. To do this, we select an occupation from the dropdown next to the cell labeled "former".
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_ck_02.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 If we want to randomly pick a profession, we can roll two six-sided dice - these are the standard dice of Yahtzee, or other board games - on the table below. The first result of the dice is the number of the row, the second result is the number of the column. With a 4 and a 2, we would have been a musician before the crash for example. This is how we can determine all of our character's values, if we want to.
 
 Our past and our characteristics should only give us a rough impression of ourselves - our character - and our group. A stepping stone, so to speak, into our story. Who our characters are "now" and how they react to the dramatic situation of the disaster, that we find out during the course of the game.
@@ -169,10 +169,8 @@ When choosing a profession, we can consider: Who or what had the greatest impact
 | **4** |Policeofficer|Bartender|Doctor/Physician|Surf Instructor|Educator|Tatoo Artist|
 | **5** |Mechanic|Banker|Florist|Salesperson|Scientist|Interpreter|
 | **6** |Accountant|Actor|Bike Courier|Farmer|Obstetrician|Pharmacist|
-
-<br>
-<br>
-
+<br/>
+<br/>
 ### Hello, my name is
 Of course, our character needs a name. We can choose one from the dropdown list or make up our own. Don't waste time coming up with a last name, no one will address you with it. But your name is part of your past. Do you wear it with pride, or are you, in fact, happy to start over?
 
@@ -184,10 +182,8 @@ Of course, our character needs a name. We can choose one from the dropdown list 
 | **4** |Mauve|Clover|Thyme|Tayler|Ilya|Lev|
 | **5** |Moon|Clio|Blair|Harper|Jae|Lean|
 | **6** |Ember|Kim|Silver|Nova|Yam|Riley|
-
-<br>
-<br>
-
+<br/>
+<br/>
 ### My strengths and weaknesses
 In order to give our character a little more depth and to give us a better foundation when we answer the questions posed to us - that is, to our character -, we also determine what we were particularly good at "in the past" and what our great weakness was. Again, nothing is set in stone. If we have the feeling that we would like to change something later during the game - go ahead.
 
@@ -202,10 +198,8 @@ Choose a positive trait from the list, or think of one yourself. No one can be r
 | **4** |ambitious|modest|competent|tenacious|creative|empathic|
 | **5** |charming|helpful|brave|balancing|cultivated|athletic|
 | **6** |good-natured|open to criticism|disciplined|relaxed|motivated|optimistic|
-
-<br>
-<br>
-
+<br/>
+<br/>
 #### My weakness
 Choose a weakness from the list, or think of one yourself. No one can be reduced to just one negative characteristic. It's just meant to give you and the people you're playing with something to guide you. Are you aware of your flaws, or are they only little quirks and people just need to get to know you better? What behavior do you find unbearable in others?
 
@@ -217,10 +211,8 @@ Choose a weakness from the list, or think of one yourself. No one can be reduced
 | **4** |over ambitious|pushy|incompetent|plaintive|hurt|dominating|
 | **5** |shy|selfish|messy|nervous|disrespectful|careless|
 | **6** |begrudging|quick-tempered|skeptical|anxious|bored|unathletic|
-
-<br>
-<br>
-
+<br/>
+<br/>
 ### Short introductions
 Now it's time for us to introduce our characters to each other. A short, snappy description will do. 
 Watching the intro of our series, what would the viewer see that best characterizes the person in question? Just a little insight into who the character was before the crash is enough. Everything else unfolds in the game.
@@ -240,13 +232,12 @@ For the first round, the classic tropical island is a good choice. Simply becaus
 I have put together a few pictures for our inspiration. These can be found via the following [link](https://www.pinterest.de/mrbananenbrot/lost-island/the-island-moods/).
 Again, we don't want to dwell too long on discussions and descriptions. We will soon find out what exactly awaits us on the island. But it is important that all participants have a similar picture in mind. The best way to do that is to talk about it.
 If we want, we can record the results at the bottom of the Character Keeper.
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_ck_03.gif?raw=true)
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
 ## The Camp
 After we have a rough idea of our island, we still have to determine how our camp looks like at the beginning of the game. 
 Whoever has seen the sea last may describe how our camp and the directly adjacent area looks like. Of course, everyone is allowed to contribute or ask questions based on this.
@@ -259,19 +250,19 @@ So now we will really get started with the actual game. I promise. What is left 
 The person to the left of the one who has just described the camp chooses one of the four status cards "Unity", "Knowledge", "Security" or "Supply" and answers the question printed on the back.
 
 To do this, we click once on the corresponding card and read out the question on it.
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_06.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 Based on the given answer, we determine the status for the given category by placing one of the four markers, to the left of the status cards, on the corresponding number. For example, if we think that, based on the given answer, our supplies are rather scarce, then we would set the marker on the "Supply" card to "-1 \| scarce".
-<br>
-<br>
+<br/>
+<br/>
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_pc_07.gif?raw=true)
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 For the start we want to set one category to 0, one category to 1 and two categories to -1. So in total we have: -1, -1, 0 and 1. 
 
 Clockwise, we answer all four questions and are then ready to draw the first prompt.
@@ -281,10 +272,9 @@ The **Status Cards** have no further mechanical effect. They only serve to give 
 Accordingly, the value can be adjusted up or down at any time if we feel our situation has improved or worsened in a category based on our answers to the questions asked.
 
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
 ## Gameplay
 ### Scenario Intro Text
 We can read out the scenario text before the first question card is drawn, in order to familiarize ourselves once again with the scenario. It's like a intro to the first episode of our series. We can find this text at the top center of the Character Keeper next to the name of the selected setting.
@@ -329,13 +319,12 @@ When we draw an "Draw an event or mystery card" card, we get to decide whether w
 After answering the prompt, we can consider together whether a status - i.e. "unity", "knowledge", "security" or "supply" - has changed for the better or worse for our group. We can indicate this by moving the marker on the respective status card to an appropriate value.
 
 We continue to answer, pass or use the X card until the card "A ship emerges from the dense morning fog in front of the island. Finally the longed-for salvation? What from the island will accompany you all your life?" is drawn. We all take turns answering the question one by one. After that, our little story ends and we say goodbye to our characters and say to our island.
-<br>
-<br>
+<br/>
+<br/>
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
 # Debriefing. Let our game conclude
 To conclude our game, we can use a method by Lu Quade, namely ["Stars and Wishes"](https://www.gauntlet-rpg.com/blog/stars-and-wishes).
 Here, each player in turn may name one thing that they found particularly outstanding. This can be particular ideas, scenes or even characters. Something that enriched today's game and that we really liked.
@@ -346,13 +335,12 @@ What would we like to see next time? What could be done differently or better ne
 This way we can review our game, our story and find a nice ending for our visit to our "Lost Island".
 
 An interesting article on Stars and Wishes can also be found at [Burn After Running: RPG One-Shots](https://burnafterrunningrpg.com/2022/01/07/stars-and-wishes-because-feedback-is-hard/).
-<br>
-<br>
+<br/>
+<br/>
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
 # Optional Rules
 Nachfolgend sind ein paar optionale Regeln aufgeführt, die wir bei unserem Spiel nutzen können ‒ wenn wir möchten.
 
@@ -392,11 +380,9 @@ Matching portraits can be found on the following [Pinterest board](https://www.p
 | **4** |Glazier|Carter|Boatman/Boatwoman|Winegrower|Prisoner|Tailor|
 | **5** |Pharmacist|Printer|Fisherman|Butcher|Cartographer|Horse Breeder|
 | **6** |Farmer|Shoemaker|Paper Manufacturer|Bricklayer|Blacksmith|Postal Clerk|
-
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
 ### The Class
 #### Touchstone: Lord of the Flies
 Just like in the famous original, we play students who find themselves on a desert island after a plane crash.
@@ -427,11 +413,9 @@ Matching portraits can be found on the following [Pinterest Board](https://www.p
 | **4** |The Troublemaker|The Social Butterfly|The Musician|The Boy Scout|The Animal Nut|The Bookworm|
 | **5** |The Shy One|The Collector|The Precocious|The Spoiled|The Politically Active|The Fashion Lover|
 | **6** |The Free Spirited|The Follower|The Daydreamer|The Exchange Student|The Technically Savvy|The Best Friend|
-
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
 # Credits and License
 
 This work is based on _[For the Queen](http://www.forthequeengame.com/)_, product of Alex Roberts and Evil Hat Productions, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
@@ -452,13 +436,12 @@ Lost Island also is released under the [Creative Commons Attribution 3.0 Unporte
 ## Name lists
 - [https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen](https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen)
 - [https://bluntrose.com/nonbinary-name-list/](https://bluntrose.com/nonbinary-name-list/)
-<br>
-<br>
+<br/>
+<br/>
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
 # Dedication
 To my suns Moni, Annika and Marina. Everything I am proud of in life, I owe to you.
 
