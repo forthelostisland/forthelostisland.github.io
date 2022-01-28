@@ -15,7 +15,8 @@ The game is designed for 3 to 6 players.
 The playing time depends strongly on the respective group. However, three hours has proven to be a good benchmark.
 
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
-
+<br>
+<br>
 # Before we get started
 ## Safety Tools
 All of us want to have a good time together, so we look out for each other and make sure that everyone feels comfortable. We do this by looking at each other's facial expressions and body language, or by specifically asking if everyone is doing well and having fun.
