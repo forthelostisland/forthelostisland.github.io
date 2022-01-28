@@ -92,7 +92,7 @@ We drag the pile with the desired number of **prompt cards** with a left click o
 <br>
 <br>
 <br>
-We do the same with the **"Draw an Event or Mystery Card "** cards. We recommend **5 cards** for **3 to 4 players** and **7 cards** for **5 to 6 players. ** We click on "RECALL & SHUFFLE" once to turn the deck over and then split the stack at the desired number of cards.
+We do the same with the **"Draw an Event or Mystery Card "** cards. We recommend **5 cards** for **3 to 4 players** and **7 cards** for **5 to 6 players.** We click on "RECALL & SHUFFLE" once to turn the deck over and then split the stack at the desired number of cards.
 Then we drag this stack onto the previously prepared **prompt card stack**, while rotating it by clicking on the letter "Z" so that it is oriented in the same way as the prompt cards.
 <br>
 <br>
@@ -198,6 +198,7 @@ Choose a positive trait from the list, or think of one yourself. No one can be r
 | **4** |ambitious|modest|competent|tenacious|creative|empathic|
 | **5** |charming|helpful|brave|balancing|cultivated|athletic|
 | **6** |good-natured|open to criticism|disciplined|relaxed|motivated|optimistic|
+
 <br>
 <br>
 #### My weakness
