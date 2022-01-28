@@ -429,6 +429,7 @@ Lost Island also is released under the [Creative Commons Attribution 3.0 Unporte
 
 ### Web
 - Favicon: <a href="https://www.flaticon.com/free-icons/island" title="island icons">Island icons created by Freepik - Flaticon</a>
+- Theme: this page was created using GitHub pages and the Jekyll theme [Gitbook](https://github.com/sighingnow/jekyll-gitbook)
 
 ## Name lists
 - [https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen](https://www.rossmann.de/de/baby-kind/babywelt/schwangerschaft/babynamen-finden/unisexnamen)
