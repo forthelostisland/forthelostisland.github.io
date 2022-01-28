@@ -347,6 +347,10 @@ Lost Island erscheint ebenfalls unter der [Creative Commons Attribution 3.0 Unpo
 		- Fragen: [https://freeclassicimages.com/images/Dart_and_Fall.jpg](https://freeclassicimages.com/images/Dart_and_Fall.jpg)
 		- Event- und Mysterykarten: [https://freeclassicimages.com/images/Loch_Awe.jpg](https://freeclassicimages.com/images/Loch_Awe.jpg)
 
+### Web
+- Favicon: <a href="https://www.flaticon.com/free-icons/island" title="island icons">Island icons created by Freepik - Flaticon</a>
+- Theme: diese Seite wurde mit Hilfe von GitHub pages und dem Jekyll theme [Gitbook](https://github.com/sighingnow/jekyll-gitbook) erstellt.
+
 ### Charakterpoträts
 - C1: [Photo by A Koolshooter on Pexels](https://www.pexels.com/photo/portrait-of-a-woman-with-blonde-hair-and-black-leather-jacket-5601012/)
 - C2: [Photo by Ron Lach on Pexels](https://www.pexels.com/de-de/@ron-lach)
