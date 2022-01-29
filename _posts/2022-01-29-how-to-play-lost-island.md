@@ -118,7 +118,7 @@ Together we now create our characters via the [Character Keeper](https://docs.go
 For this we first define the language and the desired game setting *(see Optional Scenarios)* via the corresponding dropdown in the upper left corner of the Keeper.
 <br/>
 <br/>
-![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_ck_00.gif?raw=true)
+![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_ck_00.gif?raw=true)
 <br/>
 <br/>
 <br/>
@@ -169,6 +169,7 @@ When choosing a profession, we can consider: Who or what had the greatest impact
 | **4** |Policeofficer|Bartender|Doctor/Physician|Surf Instructor|Educator|Tatoo Artist|
 | **5** |Mechanic|Banker|Florist|Salesperson|Scientist|Interpreter|
 | **6** |Accountant|Actor|Bike Courier|Farmer|Obstetrician|Pharmacist|
+
 &NewLine;
 &NewLine;
 ### Hello, my name is
