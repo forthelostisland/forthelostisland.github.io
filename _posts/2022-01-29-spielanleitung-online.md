@@ -122,7 +122,7 @@ Nun können wir gemeinsam unsere Charakter über den [Character Keeper](https://
 Dazu legen wir zunächst die Sprache und das gewünschte Spielsetting *(siehe Optionale Szenarien)* über das entsprechende Dropdown oben links im Keeper fest.
 <br>
 <br>
-![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_ck_00.gif?raw=true)
+![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/gif/Lost_Island_ck_00.gif?raw=true)
 <br>
 <br>
 <br>
