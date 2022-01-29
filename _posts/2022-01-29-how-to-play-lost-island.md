@@ -169,7 +169,8 @@ When choosing a profession, we can consider: Who or what had the greatest impact
 | **4** |Policeofficer|Bartender|Doctor/Physician|Surf Instructor|Educator|Tatoo Artist|
 | **5** |Mechanic|Banker|Florist|Salesperson|Scientist|Interpreter|
 | **6** |Accountant|Actor|Bike Courier|Farmer|Obstetrician|Pharmacist|
-
+&NewLine;
+&NewLine;
 ### Hello, my name is
 Of course, our character needs a name. We can choose one from the dropdown list or make up our own. Don't waste time coming up with a last name, no one will address you with it. But your name is part of your past. Do you wear it with pride, or are you, in fact, happy to start over?
 
