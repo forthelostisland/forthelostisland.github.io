@@ -108,6 +108,8 @@ Bei der Auswahl des Berufs können wir uns überlegen: Wer oder was hat mich am 
 | **5** |Grafikdesigner\*in|Apotheker\*in|Ernährungsberater\*in|Anwalt/Anwält\*in|Erzieher\*in|Wissenschaftler\*in|
 | **6** |Geburtshelfer\*in|Diplomat\*in|Briefträger\*in|Geschäftsführer\*in|Tatoo Artist|Dolmetscher\*in|
 
+&nbsp;
+&nbsp;
 ### Mein Name
 Natürlich braucht unser Charakter einen Namen. Diesen suchen wir uns aus folgender Tabelle aus, oder überlegen uns einen eigenen. Verschwende keine Zeit dir einen Nachnamen auszudenken, es wird dich niemand damit ansprechen. Aber dein Name ist Teil deiner Vergangenheit. Trägst du ihn mit Stolz, oder bist du im Gegenteil froh, noch einmal neu anfangen zu können?
 
@@ -120,6 +122,8 @@ Natürlich braucht unser Charakter einen Namen. Diesen suchen wir uns aus folgen
 | **5** |Moon|Clio|Blair|Harper|Jae|Lean|
 | **6** |Ember|Kim|Silver|Nova|Yam|Riley|
 
+&nbsp;
+&nbsp;
 ### Meine positiven und negativen Eigenschaften
 Damit unser Charakter etwas mehr Tiefe bekommt und wir eine bessere Grundlage haben, wenn wir nachher auf die uns ‒ also unserem Charakter ‒ gestellten Fragen antworten, legen wir noch fest, was wir "früher" besonders gut konnten und was unsere große Schwäche war. Auch hier gilt wieder: Nichts ist in Stein gemeißelt. Wenn wir das Gefühl haben, wir möchten etwas während des Spiels noch umändern ‒ nur zu.
 
@@ -135,6 +139,8 @@ Wähle eine positive Eigenschaft aus der Tabelle, oder denke dir selbst eine aus
 | **5** |charmant|hilfsbereit|tapfer|ausgleichend|kultiviert|sportlich|
 | **6** |wohlwollend|kritikfähig|diszipliniert|entspannt|motiviert|optimistisch|
 
+&nbsp;
+&nbsp;
 #### Meine Schwäche
 Wähle eine negative Eigenschaft aus der Tabelle, oder denke dir selbst eine aus. Niemand kann nur auf eine Eigenschaft reduziert werden. Sie soll dir und deinen Mitspielenden lediglich etwas zur Orientierung an die Hand geben. Bist du dir deiner Macken bewusst, oder sind das nur Äußerlichkeiten und man muss dich einfach nur besser kennenlernen? Welches Verhalten findest du bei anderen unausstehlich?
 
@@ -147,6 +153,8 @@ Wähle eine negative Eigenschaft aus der Tabelle, oder denke dir selbst eine aus
 | **5** |schüchtern|egoistisch|unordentlich|nervös|respektlos|leichtsinnig|
 | **6** |missgünstig|aufbrausend|skeptisch|ängstlich|gelangweilt|unsportlich|
 
+&nbsp;
+&nbsp;
 ### Kurze Vorstellungsrunde
 Nun ist es Zeit, dass wir uns unsere Charaktere gegenseitig vorstellen. Dabei reicht eine kurze, knackige Beschreibung. 
 Was würde der Zuschauer im Intro unserer Serie sehen, was die jeweilige Person am besten charakterisiert? Es reicht ein kleiner Einblick darin, wer der Charakter vor dem Absturz war. Alles weitere ergibt sich dann im Spiel.
@@ -251,8 +259,8 @@ So können wir unser Spiel, unsere Geschichte noch einmal Revue passieren lassen
 
 Ein guter Artikel zu Stars and Wishes kann auch bei [Burn After Running: RPG One-Shots](https://burnafterrunningrpg.com/2022/01/07/stars-and-wishes-because-feedback-is-hard/) gefunden werden.
 <br>
- <br>
- ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
+<br>
+![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
  <br>
  <br>
  <br>
@@ -301,6 +309,8 @@ Passende Porträts finden wir auf folgendem [Pinterest Board](https://www.pinter
 | **5** |Apotheker\*in|Buchdrucker\*in|Fischer\*in|Metzger\*in|Kartograph\*in|Pferdezüchter\*in|
 | **6** |Landwirt\*in|Schuhmacher\*in|Papiermacher\*in|Maurer\*in|Schmied\*in|Postbeamte\*r|
 
+&nbsp;
+&nbsp;
 ### Die Welle
 #### Touchstone: Herr der Fliegen
 Hier spielen wir ‒ ganz wie bei der berühmten Vorlage ‒ Schüler\*innen, die sich nach einem Flugzeugabsturz auf sich gestellt auf einer einsamen Insel wiederfinden.
@@ -330,6 +340,8 @@ Passende Porträts finden wir auf folgendem [Pinterest Board](https://www.pinter
 | **5** |der\*die Schüchterne|Sammler\*in|der\*die Frühreife|der\*die Verwöhnte|der\*die politisch Aktive|der\*die Modebewusste|
 | **6** |der\*die Freigeist|der\*die Mitläufer\*in|Tagträumer\*in|Austauschschüler\*in|der\*die Technischbegabte|beste\*r Freund\*in|
 
+&nbsp;
+&nbsp;
 # Credits und Lizenz
 
 This work is based on _[For the Queen](http://www.forthequeengame.com/)_, product of Alex Roberts and Evil Hat Productions, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
@@ -384,11 +396,13 @@ Lost Island erscheint ebenfalls unter der [Creative Commons Attribution 3.0 Unpo
 - C30: [Photo by Pavel Danilyuk on Pexels](https://www.pexels.com/de-de/foto/geschaftsmann-mann-sitzung-stuhl-7519009/)
 - C31: [Photo by Ron Lach on Pexels](https://www.pexels.com/photo/woman-wearing-pink-ballet-suit-holding-a-handrail-7927762/)
 - C32: [Photo by Ron Lach on Pexels](https://www.pexels.com/photo/elderly-woman-sitting-in-chair-and-looking-at-her-gold-ring-10117820/)
-<br>
-<br>
+
+&nbsp;
+&nbsp;
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
 <br>
 <br>
+&nbsp;
 
 # Widmung
 Meinen Sonnen Moni, Annika und Marina. Alles worauf ich im Leben stolz bin, verdanke ich euch.
