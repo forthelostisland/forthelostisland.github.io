@@ -15,6 +15,7 @@ Sowohl, was den Ton, als auch was die Ereignisse angeht. Was uns gefällt lassen
 Das Spiel ist dabei für 3 bis 6 Spielende ausgelegt.
 Die Spielzeit hängt stark von der jeweiligen Gruppe ab. Drei Stunden haben sich dabei als ein gutes Maß ergeben.
 <br>
+<br>
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
 <br>
 <br>
