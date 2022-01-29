@@ -118,7 +118,7 @@ Together we now create our characters via the [Character Keeper](https://docs.go
 For this we first define the language and the desired game setting *(see Optional Scenarios)* via the corresponding dropdown in the upper left corner of the Keeper.
 <br/>
 <br/>
-![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/LostIsland_card-overview.png?raw=false)
+![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_ck_00.gif?raw=true)
 <br/>
 <br/>
 <br/>
