@@ -1,7 +1,7 @@
 
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Cover_schmal.jpg?raw=true)
 
-<div style="text-align: right"> Steffen Jörg | forthelostisland@gmail.com </div>
+<div style="text-align: right"> Steffen Jörg | forthelostisland@gmail.com | V1.0</div>
 
 # What is "Lost Island"
 Lost Island is a storytelling game in which we take on the role of people who find themselves the sole survivors after a tragic plane crash on a deserted island.
