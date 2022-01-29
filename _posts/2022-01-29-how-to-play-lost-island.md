@@ -184,6 +184,8 @@ Of course, our character needs a name. We can choose one from the dropdown list 
 | **5** |Moon|Clio|Blair|Harper|Jae|Lean|
 | **6** |Ember|Kim|Silver|Nova|Yam|Riley|
 
+&nbsp;
+&nbsp;
 ### My strengths and weaknesses
 In order to give our character a little more depth and to give us a better foundation when we answer the questions posed to us - that is, to our character -, we also determine what we were particularly good at "in the past" and what our great weakness was. Again, nothing is set in stone. If we have the feeling that we would like to change something later during the game - go ahead.
 
@@ -199,6 +201,8 @@ Choose a positive trait from the list, or think of one yourself. No one can be r
 | **5** |charming|helpful|brave|balancing|cultivated|athletic|
 | **6** |good-natured|open to criticism|disciplined|relaxed|motivated|optimistic|
 
+&nbsp;
+&nbsp;
 #### My weakness
 Choose a weakness from the list, or think of one yourself. No one can be reduced to just one negative characteristic. It's just meant to give you and the people you're playing with something to guide you. Are you aware of your flaws, or are they only little quirks and people just need to get to know you better? What behavior do you find unbearable in others?
 
@@ -211,7 +215,8 @@ Choose a weakness from the list, or think of one yourself. No one can be reduced
 | **5** |shy|selfish|messy|nervous|disrespectful|careless|
 | **6** |begrudging|quick-tempered|skeptical|anxious|bored|unathletic|
 
-
+&nbsp;
+&nbsp;
 ### Short introductions
 Now it's time for us to introduce our characters to each other. A short, snappy description will do. 
 Watching the intro of our series, what would the viewer see that best characterizes the person in question? Just a little insight into who the character was before the crash is enough. Everything else unfolds in the game.
@@ -380,6 +385,8 @@ Matching portraits can be found on the following [Pinterest board](https://www.p
 | **5** |Pharmacist|Printer|Fisherman|Butcher|Cartographer|Horse Breeder|
 | **6** |Farmer|Shoemaker|Paper Manufacturer|Bricklayer|Blacksmith|Postal Clerk|
 
+&nbsp;
+&nbsp;
 ### The Class
 #### Touchstone: Lord of the Flies
 Just like in the famous original, we play students who find themselves on a desert island after a plane crash.
@@ -411,7 +418,9 @@ Matching portraits can be found on the following [Pinterest Board](https://www.p
 | **5** |The Shy One|The Collector|The Precocious|The Spoiled|The Politically Active|The Fashion Lover|
 | **6** |The Free Spirited|The Follower|The Daydreamer|The Exchange Student|The Technically Savvy|The Best Friend|
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 # Credits and License
 
 This work is based on _[For the Queen](http://www.forthequeengame.com/)_, product of Alex Roberts and Evil Hat Productions, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
@@ -441,7 +450,7 @@ Lost Island also is released under the [Creative Commons Attribution 3.0 Unporte
 ![enter image description here](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Trenner01.jpg?raw=true)
 <br/>
 <br/>
-
+&nbsp;
 # Dedication
 To my suns Moni, Annika and Marina. Everything I am proud of in life, I owe to you.
 
