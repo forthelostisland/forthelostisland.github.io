@@ -1,7 +1,7 @@
 ﻿
 ![](https://github.com/forthelostisland/forthelostisland.github.io/blob/main/assets/Lost_Island_Cover_schmal.jpg?raw=true)
 
-<div style="text-align: right"> Steffen Jörg | forthelostisland@gmail.com </div>
+<div style="text-align: right"> Steffen Jörg | forthelostisland@gmail.com | V1.0</div>
 
 # Was ist "Lost Island"
 Lost Island ist ein Erzählspiel, bei dem wir die Rolle von Menschen übernehmen, die sich nach einem tragischen 
