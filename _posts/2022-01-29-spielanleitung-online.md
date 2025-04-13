@@ -39,7 +39,7 @@ So viel Spaß uns das Spielen auch bereitet, es ist anstrengender als man denkt,
 ## Spielmaterialien und -aufbau
 ### Spielhilfen
 Bevor wir loslegen können, müssen wir noch die Spielmaterialen für unser Onlinespiel vorbereiten. Dazu benötigen wir zum einen die heruntergeladene .pcio-Datei, um den Spieltisch und die Karten auf der Plattform [https://playingcards.io](https://playingcards.io) zu laden.
-Außerdem können wir uns vorab über Google Sheets eine Kopie des sogenannten [Character Keepers](https://docs.google.com/spreadsheets/d/1I14hJeQdBJbvByqgFaeh2BPK2KZFf8r434ATQQSpBQ4/copy) erstellen, mit dem wir unsere Charaktere erstellen werden.
+Außerdem können wir uns vorab über Google Sheets eine Kopie des sogenannten [Character Keepers](https://docs.google.com/spreadsheets/d/1Q_MOoqycfZrX5ZODI5nLSK9oSK1S3XdtxbwYUQWrIqc/copy) erstellen, mit dem wir unsere Charaktere erstellen werden.
 
 Bevorzugt spielen wir über ein Video-Chat-Tool unserer Wahl. Ohne Anmeldung ist dies z.B. über [Jitsi Meet](https://meet.jit.si/) möglich.
 
