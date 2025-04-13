@@ -38,7 +38,7 @@ As much fun as we have playing, it's more exhausting than you think to actively 
 ## Play materials and setup
 ### Playing aids
 Before we can get started, we need to prepare the game materials for our game. For this we need the downloaded .pcio file to load the game table and cards at [https://playingcards.io](https://playingcards.io).
-In addition, we can make a copy of the so-called [Character Keeper](https://docs.google.com/spreadsheets/d/1I14hJeQdBJbvByqgFaeh2BPK2KZFf8r434ATQQSpBQ4/copy) in advance via Google Sheets, which we will use to create our characters.
+In addition, we can make a copy of the so-called [Character Keeper](https://docs.google.com/spreadsheets/d/1Q_MOoqycfZrX5ZODI5nLSK9oSK1S3XdtxbwYUQWrIqc/copy) in advance via Google Sheets, which we will use to create our characters.
 
 Preferably we play via a video chat tool of our choice. For instance, without registration, this is possible using [Jitsi Meet](https://meet.jit.si/).
 
